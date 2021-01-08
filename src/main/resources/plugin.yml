@@ -1,0 +1,7 @@
+name: Blueprint
+version: ${project.version}
+main: org.blueprint.blueprint.Blueprint
+api-version: 1.16
+authors: [ A_bins, Bins ]
+commands:
+  청사진:
